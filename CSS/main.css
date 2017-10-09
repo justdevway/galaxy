@@ -1,0 +1,82 @@
+body {
+}
+
+.space-conatiner {
+	width:  585px;
+	height: 550px;
+	margin:  50px auto;
+	background: linear-gradient(135deg,#072233 0%,#125e85 100%);
+	position: relative;
+}
+
+.space-conatiner .bg {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	height: 710px;
+}
+
+
+.space-conatiner #io {
+	height: 40px;
+	position: absolute;
+	height: 40px;
+	top: 257px;
+	left: 80px;
+}
+
+.space-conatiner #jupiter {
+	height: 90px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+}
+
+#play {
+	position: absolute;
+	left:  90%;
+	bottom: 10px;
+	background: red;
+}
+
+#button {
+	padding:   5px 15px;
+	position: absolute;
+	z-index: 5;
+	bottom: 5px;
+	right: 15px;
+	outline: none;
+	border: 1px solid #072233;
+	border-radius: 5px;
+	background: #fff;
+	color: #072233;
+	font-size:  18px;
+	font-weight: 700;
+	cursor: pointer;
+	box-shadow: 2px 2px 11px 0px rgba(0,0,0,0.19);
+	transition: all 0.3s ease;*/
+}
+
+#button:hover {
+	background: #3ea1e4;
+	box-shadow: 4px 8px 20px 0px rgba(0,0,0,0.2
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
